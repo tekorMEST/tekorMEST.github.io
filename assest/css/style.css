@@ -1,0 +1,28 @@
+nav{position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 50px;
+    padding: 15px;
+    background: rgba(128, 56, 56, 0.637);
+    display: flex;
+justify-content: space-between;}
+#nav-items {
+
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    list-style-type: none;
+    padding: 10px 0;
+    margin-right: 30%;
+}
+
+#nav-items a {
+
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    text-transform:lowercase;
+}
