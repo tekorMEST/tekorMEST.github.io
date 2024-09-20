@@ -153,7 +153,7 @@ nav {
     display: flex;
     justify-content: space-between;
     border-color: black;
-    margin-top: 200px;
+    margin-top: 100px;
     margin-left: 60px;
     margin-right: 60px;
     border-top-style: ridge;
@@ -377,4 +377,20 @@ nav {
 }
 #writeup{
     font-family: 'Fugaz One';font-size: 18px;
+}
+.cert{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.brands{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+#exper{
+    font-family: 'Fugaz One'; 
+    font-size: 30px;
+    margin-left: 500px;
+    margin-top: 100px;
 }
