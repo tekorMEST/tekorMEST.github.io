@@ -219,8 +219,8 @@ nav {
 }
 
 .attack {
-    background-image: url(../image/new\ try.jpg);
-    /* background-color: red; */
+    
+    background-color: rgba(255, 255, 255, 0.712); 
 }
 
 
@@ -348,7 +348,7 @@ nav {
 }
 
 .addon {
-    background-color: darkgoldenrod;
+    background-color: whitesmoke;
 }
 
 #wii {
